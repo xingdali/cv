@@ -4,6 +4,7 @@ title: Xingda Li
 email:
   url: mailto:xingdali@live.unc.edu
   text: xingdali@live.unc.edu
+phone: (470)-667-1547
 homepage:
   url: https://www.linkedin.com/in/xingdali/
   text: https://www.linkedin.com/in/xingdali/
@@ -23,7 +24,7 @@ Supported arguments:
 
 ## Education
 
-### **University of North Carolina at Chapel Hill** `2019.8 - 2021.5`
+### **University of North Carolina at Chapel Hill** `2019.8 - (Anticipated) 2021.5`
 
 ```
 Chapel Hill, NC
@@ -37,22 +38,32 @@ Chapel Hill, NC
 Urbana, IL
 ```
 
-- Undecided, GPA: 3.83/4.0
+- Pre-Engineering, GPA: 3.83/4.0
 
 
 ## Experience
 
-### **Orka** `2021.3 - 2021.7`
+### **Volumetric Capture Processor App** `2021.8 - (Anticipated) 2021.12`
 
 ```
-Foster City, CA
+Chapel Hill, NC
+```
+
+_Software Developer_<br>
+- Working with [UNC Reese Innovation Lab](https://reeseinnovate.com) to develop a website to present and manage their projects using Django hosted on AWS.
+
+### **Orka Labs Inc.** `2021.3 - 2021.7`
+
+```
+Palo Alto, CA
 ```
 
 _Software Engineer Intern_<br>
-- Worked with the software development team (mentored by [Chauncey Lu](https://www.linkedin.com/in/chauncey-lu-657b9580/) and [Yufan Yuan](https://www.linkedin.com/in/yufan-yuan-1b8117135/)) on building the official [website](https://hiorka.com). I developed the user interface using ReactJS, and backend api using Django for the refund process. I also participated in developing a hearing aid fitting console, which provides user interface for audiologists to check patient medical information, and modify parameters on patients' hearing aids during remote and in-person fitting. For the remote fitting function, my teammate and I used Websocket to send messages to patient's phone and manipulate hearing aids by BLE. We also accomplished real-time video chat between audiologist's browser and patient's phone to solve remote communication issues using Twilio.
-- Applied Jenkins and Docker for CI/CD infrastructure. I wrote shell scripts for building, deploying applications, and sending email notifications of the building information. I also implemented and migrated static files on server to the AWS S3 in order to store future files uploaded by users.
-- **Fall Detection** is an application that detecting user's fall down movement, which running on the hearing aid. I first trained a 1D CNN model based on signals from 3-axis Accelerometer on human waists using Tensorflow Deep Learning Library. Since the hearing aid is an embedded system, I built a simple 1D CNN library in C, which can load and deploy any 1D CNN models trained in Tensorflow on the hearing aid. I also optimized the CNN algorithm specifically for the ARM architecture chip on the hearing aid using CMSIS DSP Library for superior performance.
-- Built an mobile application for collecting Fall Detection training dataset from hearing aids on human ears using Flutter. I used a Bluetooth API to get signals from 3-axis Accelerometer on hearing aid, and formatted data into CSV files. During data collection, a video recording feature is also applied for future data annotation.
+- Worked with the software development team on building the [official website](https://hiorka.com). I developed the user interface using ReactJS, and backend API using Django for the refund process.
+- Developed a hearing aid Fitting Console, which provides GUI for audiologists to manage patient medical information, and uses Websocket to trigger Bluetooth API on patient's phone to modify hearing aids settings during remote and in-person fitting. We also accomplished real-time video chat for audiologist's browser and patient's phone to solve remote communication issues using Twilio.
+- Applied Jenkins and Docker for CI/CD infrastructure. Wrote shell scripts for building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 in order to store future files uploaded by users.
+- Developed Fall Detection algorithm which running on hearing aid that detecting user's fall down movement. Trained 1D CNN models based on signals from 3-axis Accelerometer using Tensorflow Deep Learning Library. Built a simple 1D CNN library in C for loading and deploying any 1D CNN models onto the hearing aid. Optimized the algorithm specifically for the ARM architecture chip on the hearing aid using CMSIS DSP Library for superior performance.
+- Built a mobile application for collecting Fall Detection training dataset from sensors embedded in hearing aids using Flutter. Implemented methods for collecting data through BLE, and formatting them. A video recording feature is also applied to make future data annotation easier.
 
 ### **CourseEval** `2020.8 - 2020.11`
 
@@ -60,7 +71,7 @@ _Software Engineer Intern_<br>
 Chapel Hill, NC
 ```
 
-_Full-stack Developer_<br>
+_Software Developer_<br>
 - Proposed the whole project including infrastructure, and the final solution we aimed for.
 - Developed the public user interface with HTML, CSS, and Javascript.
 - Developed backend using NodeJS, and MongoDB for storage user information, and students’ comments.
@@ -88,11 +99,7 @@ _President_<br>
 
 ## Skills
 
-- Proficient in React, Django, Jenkins, and Docker with strong background in data structures and algorithms.
+- Proficient in React, Django, and Unix/Linux environments with strong background in data structures and algorithms.
 - Computer skills include Adobe Lightroom, Adobe Photoshop, iMovie, Word, Excel, and PowerPoint.
 - Proficient in English, and Mandarin.
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
