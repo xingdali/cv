@@ -30,7 +30,7 @@ Supported arguments:
 Chapel Hill, NC
 ```
 
-- B.S. Computer Science, GPA: 3.61/4.0
+- B.S. Computer Science, GPA: 3.69/4.0
 
 ### **University of Illinois at Urbana-Champaign** `2018.8 - 2019.5`
 
