@@ -50,7 +50,10 @@ Chapel Hill, NC
 ```
 
 _Software Developer_<br>
-- Working with [UNC Reese Innovation Lab](https://reeseinnovate.com) to develop a website to present and manage their projects using Django hosted on AWS.
+- Working with [UNC Reese Innovation Lab](https://reeseinnovate.com) to develop a website for uploading and managing captures to generate 3D models.
+- Designed PostgreSQL database schema for data storage and Django model development.
+- Developed client side responsive web layout using ReactJS, and Material UI for features including uploading and downloading files, and monitoring 3D model generating process.
+- Hosted web service on AWS Elastic Beanstalk, and used ECR for Docker image management.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
@@ -59,9 +62,9 @@ Palo Alto, CA
 ```
 
 _Software Engineer Intern_<br>
-- Worked with the software development team on building the [official website](https://hiorka.com). I developed the user interface using ReactJS, and backend API using Django for the refund process.
+- Worked with the software development team on building the [official website](https://hiorka.com). Developed responsive UI using ReactJS, and RESTful API using Django for the product refund process.
 - Developed a hearing aid Fitting Console, which provides GUI for audiologists to manage patient medical information, and uses Websocket to trigger Bluetooth API on patient's phone to modify hearing aids settings during remote and in-person fitting. We also accomplished real-time video chat for audiologist's browser and patient's phone to solve remote communication issues using Twilio.
-- Applied Jenkins and Docker for CI/CD infrastructure. Wrote shell scripts for building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 in order to store future files uploaded by users.
+- Applied Jenkins and Docker for CI/CD infrastructure. Wrote shell scripts for automating building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 in order to store future files uploaded by users.
 - Developed Fall Detection algorithm which running on hearing aid that detecting user's fall down movement. Trained 1D CNN models based on signals from 3-axis Accelerometer using Tensorflow Deep Learning Library. Built a simple 1D CNN library in C for loading and deploying any 1D CNN models onto the hearing aid. Optimized the algorithm specifically for the ARM architecture chip on the hearing aid using CMSIS DSP Library for superior performance.
 - Built a mobile application for collecting Fall Detection training dataset from sensors embedded in hearing aids using Flutter. Implemented methods for collecting data through BLE, and formatting them. A video recording feature is also applied to make future data annotation easier.
 
