@@ -80,7 +80,7 @@ _Software Developer_<br>
 - Developed backend using NodeJS, and MongoDB for storage user information, and students’ comments.
 - Used Selenium library to get all of the UNC course information on Coursicle.
   
-### **Illini Fighting Hunger** `2018.8 - 2018.9`
+<!-- ### **Illini Fighting Hunger** `2018.8 - 2018.9`
 
 ```
 Urbana, IL
@@ -88,7 +88,7 @@ Urbana, IL
 
 _Volunteer_<br>
 - Helped the organization package 300 lbs of rice.
-- Worked with resident assistants and residents to package meals.
+- Worked with resident assistants and residents to package meals. -->
 
 ### **TIME Photograph Club** `2015.8 - 2018.5`
 
