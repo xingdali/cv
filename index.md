@@ -24,7 +24,7 @@ Supported arguments:
 
 ## Education
 
-### **University of North Carolina at Chapel Hill** `2019.8 - (Anticipated) 2021.5`
+### **University of North Carolina at Chapel Hill** `2019.8 - (Anticipated) 2022.5`
 
 ```
 Chapel Hill, NC
