@@ -30,7 +30,7 @@ Supported arguments:
 Chapel Hill, NC
 ```
 
-- B.S. Computer Science, GPA: 3.69/4.0
+- B.S. Computer Science, GPA: 3.75/4.0
 
 ### **University of Illinois at Urbana-Champaign** `2018.8 - 2019.5`
 
@@ -52,8 +52,8 @@ Chapel Hill, NC
 _Software Developer_<br>
 - Working with [UNC Reese Innovation Lab](https://reeseinnovate.com) to develop a website for uploading and managing captures to generate 3D models.
 - Designed PostgreSQL database schema for data storage and Django model development.
-- Developed client side responsive web layout using ReactJS, and Material UI for features including uploading and downloading files, and monitoring 3D model generating process.
-- Hosted web service on AWS Elastic Beanstalk, and used ECR for Docker image management.
+- Developed client side responsive web layout using React and MaterialUI for features including uploading and downloading files, and monitoring 3D model generating process.
+- Hosted the web application on AWS Elastic Beanstalk, managed Docker images using Elastic Container Registry, and storaging static and 3D model files using S3.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
@@ -105,4 +105,5 @@ _President_<br>
 - Proficient in React, Django, and Unix/Linux environments with strong background in data structures and algorithms.
 - Computer skills include Adobe Lightroom, Adobe Photoshop, iMovie, Word, Excel, and PowerPoint.
 - Proficient in English, and Mandarin.
+<p style="color:white;">Java, C, C++, Spring, SQL, Ruby, PHP, Python, JavaScript, HTML, CSS, Angular, Flask, Firebase, jira, mySQL, git</p>
 
