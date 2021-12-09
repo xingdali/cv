@@ -105,5 +105,5 @@ _President_<br>
 - Proficient in React, Django, and Unix/Linux environments with strong background in data structures and algorithms.
 - Computer skills include Adobe Lightroom, Adobe Photoshop, iMovie, Word, Excel, and PowerPoint.
 - Proficient in English, and Mandarin.
-<p style="color:white;">Java, C, C++, Spring, SQL, Ruby, PHP, Python, JavaScript, HTML, CSS, Angular, Flask, Firebase, jira, mySQL, git</p>
+<p style="color:white;font-size:5px">Java, C, C++, Spring, SQL, Ruby, PHP, Python, JavaScript, HTML, CSS, Angular, Flask, Firebase, jira, mySQL, git</p>
 
