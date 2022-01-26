@@ -43,7 +43,7 @@ Urbana, IL
 
 ## Experience
 
-### **Volumetric Capture Processor App** `2021.8 - (Anticipated) 2021.12`
+### **Volumetric Capture Processor App** `2021.8 - 2021.12`
 
 ```
 Chapel Hill, NC
