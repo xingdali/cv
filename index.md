@@ -42,6 +42,13 @@ Urbana, IL
 
 
 ## Experience
+### **Amazon** `2022.7 - present`
+
+```
+Seattle, WA
+```
+_Software Development Engineer_<br>
+- Build live monitoring system for live playback.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
