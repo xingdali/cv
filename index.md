@@ -42,7 +42,7 @@ Urbana, IL
 
 
 ## Experience
-### **Amazon** `2022.7 - present`
+### **Amazon.com Services LLC** `2022.7 - present`
 
 ```
 Seattle, WA
