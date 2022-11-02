@@ -53,7 +53,7 @@ _Software Development Engineer_<br>
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
 ```
-Palo Alto, CA
+Shanghai, China
 ```
 
 _Software Engineer Intern_<br>
