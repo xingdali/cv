@@ -38,7 +38,7 @@ Chapel Hill, NC
 Urbana, IL
 ```
 
-- Pre-Engineering, GPA: 3.83/4.0
+- General Studies, GPA: 3.83/4.0
 
 
 ## Experience
@@ -48,7 +48,7 @@ Urbana, IL
 Seattle, WA
 ```
 _Software Development Engineer_<br>
-- Build live monitoring system for live playback.
+- Build automated monitoring system for detecting defects, mitigations, and triggering failovers for streaming delivery pipeline and live content in Amazon Prime Video.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
@@ -57,11 +57,9 @@ Shanghai, China
 ```
 
 _Software Engineer Intern_<br>
-- Worked with the software development team on building the [official website](https://hiorka.com). Developed responsive UI using ReactJS, and RESTful API using Django for the product refund process.
-- Developed a hearing aid Fitting Console, which provides GUI for audiologists to manage patient medical information, and uses Websocket to trigger Bluetooth API on patient's phone to modify hearing aids settings during remote and in-person fitting. We also accomplished real-time video chat for audiologist's browser and patient's phone to solve remote communication issues using Twilio.
-- Applied Jenkins and Docker for CI/CD infrastructure. Wrote shell scripts for automating building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 in order to store future files uploaded by users.
-- Prototyped Fall Detection algorithm which running on hearing aid that detecting user's fall down movement. Trained 1D CNN models based on signals from 3-axis Accelerometer using Tensorflow Deep Learning Library. Built a simple 1D CNN library in C for loading and deploying any 1D CNN models onto the hearing aid. Optimized the algorithm specifically for the ARM architecture chip on the hearing aid using CMSIS DSP Library for superior performance.
-- Built a mobile application for collecting Fall Detection training dataset from sensors embedded in hearing aids using Flutter. Implemented methods for collecting data through BLE, and formatting them. A video recording feature is also applied to make future data annotation easier.
+- Full-stack development of the refund process for products.
+- Developed a hearing aid Fitting Console for audiologists to manage patient medical information, and edit hearing aids configuration for hearing aid device fitting. Built real-time video chat between audiologist end and patient end using Twilio for remote fitting.
+- Applied Jenkins and Docker for CI/CD infrastructure. Wrote scripts for automating building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 to store audiograms uploaded by users.
 
 ## Skills
 
