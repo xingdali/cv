@@ -64,9 +64,7 @@ _Software Engineer Intern_<br>
 - Applied Jenkins and Docker for CI/CD infrastructure. Wrote scripts for automating building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 to store audiograms uploaded by users.
 
 ## Skills
-
-- Proficient in React, Django, and Unix/Linux environments with strong background in data structures and algorithms.
-- Computer skills include Adobe Lightroom, Adobe Photoshop, iMovie, Word, Excel, and PowerPoint.
-- Proficient in English, and Mandarin.
+- Adobe Lightroom, Adobe Photoshop.
+- Proficient in English, and Mandarin native speaker.
 <p style="color:white;font-size:0.5px">Java, C, C++, Spring, SQL, Ruby, PHP, Python, JavaScript, HTML, CSS, Angular, Flask, Firebase, jira, mySQL, git, NoSQL, GraphQL, Node.js, npm, yarn, teamwork, leadership, award, honor</p>
 
