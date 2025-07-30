@@ -48,9 +48,8 @@ Urbana, IL
 Seattle, WA
 ```
 _Software Development Engineer_<br>
-- Build automated monitoring system for detecting streaming quality defects, including audio video synchronization, audio silence, video freeze, etc, and availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, for live content in Prime Video.
-- Implement automated defect notification system for operational teams to find and mitigate content quality issues ahead of customers.
-- Develop automated failover system for mitigating issues in video streaming delivery pipeline.
+- Build automated monitoring/failover system for detecting availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, for live content in Prime Video.
+- Build automated system for orchestrating live streaming infrastrature deployments. 
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
