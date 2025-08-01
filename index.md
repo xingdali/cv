@@ -48,8 +48,10 @@ Urbana, IL
 Seattle, WA
 ```
 _Software Development Engineer_<br>
-- Build automated monitoring/failover system for detecting availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, for live content in Prime Video.
-- Build automated system for orchestrating live streaming infrastrature deployments. 
+- Build and maintain a large-scale automated monitoring/failover system for detecting availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, for both live events and 24/7 live linear streams in Prime Video.
+- Develop automated system for orchestrating the lifecycle of infrastratures for ingesting, encoding, packaging live streaming signal.
+- Build tools and dashboards providing deep operational visibility into automated systems, supporting rapid triage, troubleshooting, and mitigation of playback and stream issues.
+- Drove continuous process improvements to enhance the reliability, latency, and quality of live streaming experiences.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
 
@@ -61,9 +63,4 @@ _Software Engineer Intern_<br>
 - Full-stack development of the refund process for products.
 - Developed a hearing aid Fitting Console for audiologists to manage patient medical information, and edit hearing aids configuration for hearing aid device fitting. Built real-time video chat between audiologist end and patient end using Twilio for remote fitting.
 - Applied Jenkins and Docker for CI/CD infrastructure. Wrote scripts for automating building, deploying applications, and sending email notifications of the building information. Migrated static files on server to the AWS S3 to store audiograms uploaded by users.
-
-## Skills
-- Adobe Lightroom, Adobe Photoshop.
-- Proficient in English, and Mandarin native speaker.
-<p style="color:white;font-size:0.5px">Java, C, C++, Spring, SQL, Ruby, PHP, Python, JavaScript, HTML, CSS, Angular, Flask, Firebase, jira, mySQL, git, NoSQL, GraphQL, Node.js, npm, yarn, teamwork, leadership, award, honor</p>
 
