@@ -15,7 +15,7 @@ homepage:
 <!--
 include contact information from the front matter
 Supported arguments:
-    - homepage: url, text
+    - homepage: url, tex
     - phone
     - email
 -->
@@ -48,8 +48,9 @@ Urbana, IL
 Seattle, WA
 ```
 _Software Development Engineer_<br>
-- Build and maintain a large-scale automated monitoring/failover system for detecting availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, for both live events and 24/7 live linear streams in Prime Video.
-- Develop automated system for orchestrating the lifecycle of infrastratures for ingesting, encoding, packaging live streaming signal.
+- Build and maintain a large-scale automated monitoring/failover system for detecting availability issues, such as presence of ads, audio/video signal loss, progression of streaming, etc, of thousands of live events (like Thursday Night Football and NBA) and 24/7 live linear streams in Prime Video.
+- Develop automated system for orchestrating the lifecycle of AWS Elemental infrastratures for live streaming signal acquisition, ingesting, encoding, packaging, and vending.
+- Build Server-side Multiview management platform that combines multiple streams into a single stream to support devices that lack of media decoding capabilities. 
 - Build tools and dashboards providing deep operational visibility into automated systems, supporting rapid triage, troubleshooting, and mitigation of playback and stream issues.
 - Drove continuous process improvements to enhance the reliability, latency, and quality of live streaming experiences.
 
