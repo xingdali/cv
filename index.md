@@ -62,7 +62,6 @@ _Prime Video, Software Development Engineer_<br>
 - Automated live streaming operations at scale by reducing reliance on manual monitoring, ensuring the reliability of 24/7 live linear streams for a global audience.
 - Developed an automated orchestration system for the end-to-end lifecycle of AWS Elemental infrastructure for live streaming, streamlining signal acquisition, ingestion, encoding, packaging, and vending processes. 
 - Built Server-side Multiview management platform that combines multiple streams into a single stream to support devices that lack of media decoding capabilities. 
-- Built AI agents, tools and dashboards providing deep operational visibility into automated systems, supporting rapid triage, troubleshooting, and mitigation of playback and stream issues.
 - Drove continuous process improvements to enhance live-streaming reliability and quality; led a performance optimization project that reduced manifest accumulation latency by 66.3%, delivering a seamless, real-time scrub-back experience for viewers.
 
 ### **Orka Labs Inc.** `2021.3 - 2021.7`
@@ -81,6 +80,6 @@ _Software Engineer Intern_<br>
 ## Technical Skills
 - Languages: Java, Python, JavaScript, TypeScript, C++, SQL.
 - AWS & Cloud Infrastructure: ECS, DynamoDB, S3, Lambda, Step Functions, Kinesis, SNS/SQS, AWS Elemental Media, AWS CDK.
-- DevOps & Tools: Docker, Jenkins, Git, CI/CD Pipelines, Model Context Protocol (MCP) servers.
+- DevOps & Tools: Docker, Jenkins, Git, CI/CD Pipelines.
 - Specialized Tech: AI Agents, Live Streaming, Microservices.
 
