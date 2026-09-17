@@ -42,12 +42,22 @@ Urbana, IL
 
 
 ## Experience
-### **Amazon.com Services LLC** `2022.7 - present`
+### **Amazon.com Services LLC** `2026.2 - present`
 
 ```
 Seattle, WA
 ```
-_Software Development Engineer_<br>
+_Amazon Ads, Software Development Engineer_<br>
+- Built and maintained features of the Amazon Advertising management platform that display ad campaign performance insights and campaign change history.
+- Built and maintained tools that help Amazon Ads customers create advertising campaigns.
+
+
+### **Amazon.com Services LLC** `2022.7 - 2026.2`
+
+```
+Seattle, WA
+```
+_Prime Video, Software Development Engineer_<br>
 - Built and maintained a high-availability automated monitoring and failover system for Prime Video live streaming platform, detecting critical stream anomalies—including ad presence, signal loss, and progression stalls—for thousands of live events annually such as Thursday Night Football and the NBA.
 - Automated live streaming operations at scale by reducing reliance on manual monitoring, ensuring the reliability of 24/7 live linear streams for a global audience.
 - Developed an automated orchestration system for the end-to-end lifecycle of AWS Elemental infrastructure for live streaming, streamlining signal acquisition, ingestion, encoding, packaging, and vending processes. 
