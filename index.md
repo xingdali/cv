@@ -81,5 +81,5 @@ _Software Engineer Intern_<br>
 - Languages: Java, Python, JavaScript, TypeScript, C++, SQL.
 - AWS & Cloud Infrastructure: ECS, DynamoDB, S3, Lambda, Step Functions, Kinesis, SNS/SQS, AWS Elemental Media, AWS CDK.
 - DevOps & Tools: Docker, Jenkins, Git, CI/CD Pipelines.
-- Specialized Tech: AI Agents, Live Streaming, Microservices.
+- Specialized Tech: Live Streaming, Microservices.
 
